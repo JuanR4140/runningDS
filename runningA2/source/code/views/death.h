@@ -1,0 +1,1 @@
+void death(char* name, int choice, Sprite* player, bool FATEnabled);
